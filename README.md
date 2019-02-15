@@ -8,7 +8,7 @@ This is highly experiental work right now. If you are planning to try using it, 
 
 ## Background
 
-For background we suggest starting with the [Capturing flight data at SFO and SFO Museum](https://millsfield.sfomuseum.org/blog/2019/01/18/flights/) blog post.
+Details to follow but for background we recommend reading the [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/), [SFO Museum, Who's On First and Airports](https://millsfield.sfomuseum.org/blog/2018/10/30/airports/) and [Capturing flight data at SFO and SFO Museum](https://millsfield.sfomuseum.org/blog/2019/01/18/flights/) blog post.
 
 ## License
 
