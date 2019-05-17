@@ -19,6 +19,7 @@ Some (but still not all) flights have "alternate" geometries representing the pl
 
 There are a few things to keep in mind when using this data:
 
+* These alternate geometries are currently not availble for "code share" flights.
 * Routes and paths are clipped at the exterior boundaries of airports as well as the United States. We hope to have more detailed data soon, but today this is what we have to work with.
 * Elevation, speeds and point-in-time data for flight paths (not routes) are stored in the `swim:altitudes` and `swim:speeds` and `swim:timestamps` properties respectively. Each is an array and each index maps to a corresponding entry in the feature's `coordinates` array.
 * Elevation data are currently encoded as raw [SWIM](https://www.faa.gov/air_traffic/technology/swim/products/) `simpleAltitude Type` values. The documentation describes these values as:
