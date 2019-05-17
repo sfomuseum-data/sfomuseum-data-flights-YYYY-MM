@@ -8,7 +8,12 @@ This is highly experiental work right now. If you are planning to try using it, 
 
 ## Background
 
-Details to follow but for background we recommend reading the [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/), [SFO Museum, Who's On First and Airports](https://millsfield.sfomuseum.org/blog/2018/10/30/airports/) and [Capturing flight data at SFO and SFO Museum](https://millsfield.sfomuseum.org/blog/2019/01/18/flights/) blog post.
+Details to follow but for background we recommend reading these blog posts:
+
+* [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/) (August 2018)
+* [SFO Museum, Who's On First and Airports](https://millsfield.sfomuseum.org/blog/2018/10/30/airports/) (October 2018)
+* [Capturing flight data at SFO and SFO Museum](https://millsfield.sfomuseum.org/blog/2019/01/18/flights/) (January 2019)
+* [Harvey Milk Plane Has a Permalink – Updated flight data at SFO Museum](https://millsfield.sfomuseum.org/blog/2019/05/17/flights/) (May 2019)
 
 ## Notes
 
