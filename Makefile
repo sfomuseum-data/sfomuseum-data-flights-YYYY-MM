@@ -3,8 +3,12 @@ OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
 export-all:
 	python utils/python/export.py -r .
 
+# See the way we're egrep '.geojson$$' the new files
+# that's so we don't try to export .attrs files
+# (20200110/thisisaaronland)
+
 export-new:
-	git status --porcelain --untracked-files=all | egrep '.geojson' | awk '{ print $$2 }' > new.txt
+	git status --porcelain --untracked-files=all | egrep '.geojson$$' | awk '{ print $$2 }' > new.txt
 	python utils/python/export.py -r . -f new.txt
 	rm new.txt
 
